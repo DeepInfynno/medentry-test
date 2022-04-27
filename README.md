@@ -2,9 +2,7 @@ After Cloning the Application in local,
 
 => .env file
 
-<!--
 REACT_APP_QUESTION_API_URL=https://ucat-olp-test.medentry.edu.au/test-api
- -->
 
 => Install all the npm packages.
 Go into the project folder and type the following command to install all npm packages
